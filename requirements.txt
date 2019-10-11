@@ -1,0 +1,5 @@
+# parser.py: 1
+beautifulsoup4 == 4.6.3
+
+# driver.py: 1,2,3,4
+selenium == 3.14.0
